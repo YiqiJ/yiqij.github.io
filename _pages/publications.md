@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025 
-- Dinc F., Blanco M., Klindt D., Acosta F., Jiang Y., Ebrahimi S., Shai A., Tanaka H., Yuan P., Schnitzer M., Miolane N., Latent computing by biological neural networks: A dynamical systems framework, *arxiv*. 2025. [paper](https://arxiv.org/pdf/2502.14337)
+- **Jiang Y.**\*, Sheng K.\*, Gao Y., Buchanan K., Shikano Y., Woo S. J., Zhao Y., Hyun K. T., Dinc F., Linderman W. S., Schnitzer J. M., Extracting task-relevant preserved dynamics from contrastive aligned neural recordings, In *Advances in Neural Information Processing Systems*. 2025. (spotlight Top 3%) [paper](https://www.biorxiv.org/content/biorxiv/early/2025/11/13/2025.11.11.686428.full.pdf) [code](https://github.com/schnitzer-lab/CANDY-public/tree/main)
 
-- Dinc F., Cirakman E., Jiang Y., Yuksekgonul M., Schnitzer M., Tanaka H., A ghost mechanism: An analytical model of abrupt learning, *arxiv*. 2025. [paper](https://arxiv.org/pdf/2501.02378)
+- Dinc F., Blanco M., Klindt D., Acosta F., **Jiang Y.**, Ebrahimi S., Shai A., Tanaka H., Yuan P., Schnitzer M., Miolane N., Latent computing by biological neural networks: A dynamical systems framework, *arxiv*. 2025. [paper](https://arxiv.org/pdf/2502.14337)
+
+- Dinc F., Cirakman E., **Jiang Y.**, Yuksekgonul M., Schnitzer M., Tanaka H., A ghost mechanism: An analytical model of abrupt learning, *arxiv*. 2025. [paper](https://arxiv.org/pdf/2501.02378)
 
 ## 2024
 - **Jiang Y.**\*, Akengin H.\*, Aslihak M.\*,  Miranda C., Pozo M., Hernandez O., Inan H., Dinc F., Schnitzer M., ActSort: An Active-learning Accelerated Cell Sorting Algorithm for Large-Scale Calcium Imaging, In *Advances in Neural Information Processing Systems*. 2024. [paper](https://papers.nips.cc/paper_files/paper/2024/hash/90080022263cddafddd4a0726f1fb186-Abstract-Conference.html) [slides]()
