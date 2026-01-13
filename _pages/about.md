@@ -15,8 +15,9 @@ I am interested in the dynamics of neural activity within and across brain regio
 
 
 ## Awards
-- Mind, Brain, Computation and Technology (MBCT) Student Membership Program, Wu Tsai Neuroscience (2023 - Present)
 - Stanford Shenoy-Simons Foundation Grant (2025-present)
+- Mind, Brain, Computation and Technology (MBCT) Student Membership Program, Wu Tsai Neuroscience (2023 - Present)
+- Merrill Presidential Scholar, Cornell University (1%) 2022
 
 ## News
 - I am elected as the receiver of the **Stanford Shenoy-Simons Foundation Grant**.
