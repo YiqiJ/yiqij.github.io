@@ -20,9 +20,11 @@ I am interested in the dynamics of neural activity within and across brain regio
 - Merrill Presidential Scholar, Cornell University (1%) 2022
 
 ## News
+- I will give a talk at the Neural Data Science Seminar at Stanford on Feb. 9th. 
+- I will host the MBCT seminar featuring speaker Prof. Mark Churchland on Jan. 26th.
 - I am elected as the receiver of the **Stanford Shenoy-Simons Foundation Grant**.
 - Our paper **Extracting task-relevant preserved dynamics from contrastive aligned enrual recordings** is accepted by NeurIPS 2025 as a *spotlight* poster. 
-- I am hosting an MBCT seminar featuring speaker Prof. Cythia Mossn from John Hopkins University.
+- I am hosting the MBCT seminar featuring speaker Prof. Cythia Mossn from John Hopkins University.
 - Our paper **ActSort: An active-learning accelerated cell sorting algorithm for large-scale calcium imaging datasets** is accepted by NeurIPS 2024.
 
 ## Beyond Research
