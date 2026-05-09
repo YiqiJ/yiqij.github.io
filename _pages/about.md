@@ -28,6 +28,6 @@ I am interested in the dynamics of neural activity within and across brain regio
 - Our paper **ActSort: An active-learning accelerated cell sorting algorithm for large-scale calcium imaging datasets** is accepted by NeurIPS 2024.
 
 ## Beyond Research
-I have been practicing badminton since the age of 7. I am a **National First-Class Athlete** (China) and held the title of **Beijing Provincial Champion** in both Women's Singles and Doubles. During my undergraduate studies, I played as WD1 for the Cornell Badminton Club, winning the **National Collegiate Division 1A Championship**.
+I have been practicing badminton since the age of 7. I am a National First-Class Athlete (国家一级运动员) and held the title of Beijing Provincial Champion in both Women's Singles and Doubles. During my undergraduate studies, I played as WD1 for the Cornell Badminton Club, winning the USA National Collegiate Division 1A Championship.
 
-I am also a classically trained musician. As a **principal clarinetist**, I have performed at the **National Centre for the Performing Arts** (Beijing) and the **Lincoln Center** (New York).
+I am also a classically trained musician. As a principal clarinetist, I have performed at the National Centre for the Performing Arts** (Beijing) and the Lincoln Center (New York).
