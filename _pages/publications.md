@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+- Zhang F., Kim S., Zhang E., **Jiang Y.**, Picanli M., Optimizer-Induced Mode Connectivity: From AdamW to Muon, *arxiv*, 2026. [paper](https://arxiv.org/pdf/2605.09991)[code](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
+
 ## 2025 
-- **Jiang Y.**\*, Sheng K.\*, Gao Y., Buchanan K., Shikano Y., Woo S. J., Zhao Y., Hyun K. T., Dinc F., Linderman W. S., Schnitzer J. M., Extracting task-relevant preserved dynamics from contrastive aligned neural recordings, In *Advances in Neural Information Processing Systems*. 2025. (spotlight Top 3%) [paper](https://www.biorxiv.org/content/biorxiv/early/2025/11/13/2025.11.11.686428.full.pdf) [code](https://github.com/schnitzer-lab/CANDY-public/tree/main)
+- **Jiang Y.**\*, Sheng K.\*, Gao Y., Buchanan K., Shikano Y., Woo S. J., Zhao Y., Hyun K. T., Dinc F., Linderman W. S., Schnitzer J. M., Extracting task-relevant preserved dynamics from contrastive aligned neural recordings, In *Advances in Neural Information Processing Systems*. 2025. (spotlight Top 3%) [paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc8728759f26169f09d9d74497a430b-Paper-Conference.pdf) [code](https://github.com/schnitzer-lab/CANDY-public/tree/main)
 
 - Dinc F., Blanco M., Klindt D., Acosta F., **Jiang Y.**, Ebrahimi S., Shai A., Tanaka H., Yuan P., Schnitzer M., Miolane N., Latent computing by biological neural networks: A dynamical systems framework, *arxiv*. 2025. [paper](https://arxiv.org/pdf/2502.14337)
 
