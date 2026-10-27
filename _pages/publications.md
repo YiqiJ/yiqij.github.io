@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2026
-- Zhang F., Kim S., Zhang E., **Jiang Y.**, Picanli M., Optimizer-Induced Mode Connectivity: From AdamW to Muon, *arxiv*, 2026. [paper](https://arxiv.org/pdf/2605.09991) [code](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
+- Sheng K.\*, **Jiang Y.\***, Song R., Tyagi G., Ye H., Zhang F., Du R., Wang P., Ermon S., Deisseroth K., Mitra A., Inferring How Internal Brain State Shapes Neural Responses with State-dependent Diffusion Models, In Advances in Neural Information Processing Systems. 2026. 
+
+- Zhang F., Kim S., Zhang E., **Jiang Y.**, Picanli M., Optimizer-Induced Mode Connectivity: From AdamW to Muon, In *Advances in Neural Information Processing Systems*. 2026. [paper](https://arxiv.org/pdf/2605.09991) [code](https://github.com/pilancilab/Optimizer-Induced-Mode-Connectivity)
 
 ## 2025 
 - **Jiang Y.**\*, Sheng K.\*, Gao Y., Buchanan K., Shikano Y., Woo S. J., Zhao Y., Hyun K. T., Dinc F., Linderman W. S., Schnitzer J. M., Extracting task-relevant preserved dynamics from contrastive aligned neural recordings, In *Advances in Neural Information Processing Systems*. 2025. (spotlight Top 3%) [paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/ebc8728759f26169f09d9d74497a430b-Paper-Conference.pdf) [code](https://github.com/schnitzer-lab/CANDY-public/tree/main)
